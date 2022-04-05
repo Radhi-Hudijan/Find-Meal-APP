@@ -64,7 +64,12 @@ recipeCloseBtn.addEventListener("click", () => {
 // get meal list that match with the ingredient , Category or Area entered
 function getMealList(url) {
   fetch(url)
-    .then((response) => response.json())
+    .then((response) => {
+      if (!response.ok) {
+        throw Error(response.statusText);
+      }
+      return response.json();
+    })
     .then((data) => {
       let html = "";
       if (data.meals) {
@@ -103,7 +108,12 @@ function getMealRecipes(e) {
     fetch(
       `https://www.themealdb.com/api/json/v1/1/lookup.php?i=${mealItem.dataset.id}`
     )
-      .then((response) => response.json())
+      .then((response) => {
+        if (!response.ok) {
+          throw Error(response.statusText);
+        }
+        return response.json();
+      })
       .then((data) => {
         mealRecipeDetails(data.meals);
       })

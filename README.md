@@ -1,7 +1,18 @@
-# Find Meal APP (vanilla JS)
+# Find Meal APP 
+Find-A-Meal is an application that allows customers to search food and meals they like based on their references .
 
-This repo is an example of Single Page Application that uses a hash-based router, all written in vanilla JavaScript (no libraries used). It can also serve as a starter project for building your own application based on the same principles.
+## Description
 
-Please see: [Demo](https://radhi-hudijan.github.io/Find-Meal-APP/index.html).
+We can find differnt type of meals like (Italian, Asian, French etc.)
+
+- We can search meals based on categories ( Example : Seafood, Beef, Breakfast, etc )
+- We can brouse meals based on ingredients ( Example : Egg, Bread, Beans, etc )
+- We can brouse meals based on Area ( Example : American, Canadian, Dutch, etc )
+- We can also get meals details such as name, Instructions, Youtube link.
+- We can learn how to make different types of food.
 
 
+
+## Demo
+
+- URL: https://radhi-hudijan.github.io/Find-Meal-APP/index.html

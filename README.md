@@ -29,7 +29,7 @@ We can find differnt type of meals like (Italian, Asian, French etc.)
 - CSS
 - Fontawesome
 - JavaScript
-- 
+
 ## Live Demo
 - URL: https://radhi-hudijan.github.io/Find-Meal-APP/index.html
 

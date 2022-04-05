@@ -40,3 +40,7 @@ We can find differnt type of meals like (Italian, Asian, French etc.)
 - Linkedin: [Radhi hudijan](https://linkedin.com/in/radhi-hudijan-094b8072)
 - Email: radhif2009@gmail.com
 
+## Mentored By
+#### 👤 **Jim Cramer**
+
+- Github: [@remarcmij](https://github.com/remarcmij)

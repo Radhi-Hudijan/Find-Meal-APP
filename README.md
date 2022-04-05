@@ -24,7 +24,19 @@ We can find differnt type of meals like (Italian, Asian, French etc.)
 ### detail Page
 ![screenshot](screenshots/5.png)
 
-
-## Demo
-
+## Built With
+- HTML
+- CSS
+- Fontawesome
+- JavaScript
+- 
+## Live Demo
 - URL: https://radhi-hudijan.github.io/Find-Meal-APP/index.html
+
+## Developed By
+#### 👤 **RADHI HUDIJAN**
+
+- Github: [@Radhi-Hudijan](https://github.com/Radhi-Hudijan)
+- Linkedin: [Radhi hudijan](www.linkedin.com/in/radhi-hudijan-094b8072)
+- Email: radhif2009@gmail.com
+

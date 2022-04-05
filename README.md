@@ -37,6 +37,6 @@ We can find differnt type of meals like (Italian, Asian, French etc.)
 #### 👤 **RADHI HUDIJAN**
 
 - Github: [@Radhi-Hudijan](https://github.com/Radhi-Hudijan)
-- Linkedin: [Radhi hudijan](www.linkedin.com/in/radhi-hudijan-094b8072)
+- Linkedin: [Radhi hudijan](https://linkedin.com/in/radhi-hudijan-094b8072)
 - Email: radhif2009@gmail.com
 

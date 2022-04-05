@@ -21,7 +21,7 @@ We can find differnt type of meals like (Italian, Asian, French etc.)
 
 ### Result Page
 ![screenshot](screenshots/3.png)
-### detail Page
+### Detail Page
 ![screenshot](screenshots/5.png)
 
 ## Built With

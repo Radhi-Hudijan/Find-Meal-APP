@@ -11,6 +11,18 @@ We can find differnt type of meals like (Italian, Asian, French etc.)
 - We can also get meals details such as name, Instructions, Youtube link.
 - We can learn how to make different types of food.
 
+## APP ScreenShots
+
+### Home Page
+![screenshot](screenshots/1.png)
+
+### Search Page
+![screenshot](screenshots/2.png)
+
+### Result Page
+![screenshot](screenshots/3.png)
+### detail Page
+![screenshot](screenshots/5.png)
 
 
 ## Demo
